@@ -1,0 +1,2 @@
+Laundry management system is using HTML, CSS, JavaScript, PHP, and MySQL. This system is hosted on 000webhostapp and is designed to efficiently manage laundry orders, track inventory, handle customer information, and generate invoices. Through the use of HTML, CSS, and JavaScript, I have created a user-friendly interface to ensure a smooth experience for users. The backend is powered by PHP and MySQL, which
+handle data processing and database management.
